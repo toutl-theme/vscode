@@ -1,0 +1,34 @@
+{
+  "name": "toutl-theme",
+  "displayName": "Toutl Theme",
+  "description": "Grounded. Minimalist. Opaque.",
+  "version": "0.0.3",
+  "publisher": "toutl-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toutl-theme/vscode"
+  },
+  "engines": {
+    "vscode": "^1.106.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "assets/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Toutl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Toutl-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "label": "Toutl Icons",
+        "id": "toutl-icons",
+        "path": "./icon-themes/toutl-icons.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+.git/
+.gitignore
+.gitattributes
+
+.vscode/
+
+node_modules/
+
+.vscodeignore
+
+versions
