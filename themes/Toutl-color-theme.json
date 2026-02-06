@@ -231,7 +231,9 @@
         // For markdown
         "markup.raw.block.markdown",
         "string.other.link.description.markdown",
-        "string.other.link.title.markdown"
+        "string.other.link.title.markdown",
+        // For r
+        "comment.line.number-sign.r"
       ],
       "settings": { "foreground": "#C39AC9" }
     },
@@ -242,7 +244,9 @@
         "storage.modifier",
         "storage.type.js",
         "storage.type.function",
+        //
         "storage.type.class.python",
+        "keyword.operator.logical.python",
         "markup.heading.markdown"
       ],
       "settings": { "foreground": "#F2CC6D" }
