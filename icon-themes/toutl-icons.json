@@ -47,6 +47,7 @@
     "_r": { "iconPath": "./icons/r.svg" },
     "_r-hist": { "iconPath": "./icons/r_hist.svg" },
     "_rproj": { "iconPath": "./icons/rproj.svg" },
+    "_quarto": { "iconPath": "./icons/quarto.svg" },
     "_uv": { "iconPath": "./icons/uv.svg" },
 
     /* --- Config & Tools --- */
@@ -148,7 +149,7 @@
     "png": "_image",
     "pptx": "_powerpoint",
     "py": "_py",
-    "qmd": "_r",
+    "qmd": "_quarto",
     "r": "_r",
     "R": "_r",
     "Rhistory": "_r-hist",
