@@ -2,14 +2,14 @@
   "name": "toutl-theme",
   "displayName": "Toutl Theme",
   "description": "Grounded. Minimalist. Opaque.",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "publisher": "toutl-theme",
   "repository": {
     "type": "git",
     "url": "https://github.com/toutl-theme/vscode"
   },
   "engines": {
-    "vscode": "^1.106.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
